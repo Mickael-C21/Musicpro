@@ -1,0 +1,5 @@
+node_modules
+venv/
+__pycache__/
+Front-figma/.vite/
+Front-figma/node_modules/
